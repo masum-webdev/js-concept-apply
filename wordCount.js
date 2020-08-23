@@ -1,0 +1,1 @@
+let speech="Hello, Buddy!What's up?"
